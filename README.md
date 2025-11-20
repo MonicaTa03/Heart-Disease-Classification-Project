@@ -75,7 +75,7 @@ Here is how the project is organized:
 
 
 
-## Visuals
+## Visualizations
 
 <img width="697" height="517" alt="Image" src="https://github.com/user-attachments/assets/2a81aac3-b2e8-4956-8b60-7d797ed0253d" />
 
