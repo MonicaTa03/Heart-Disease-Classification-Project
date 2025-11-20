@@ -46,4 +46,4 @@ Here are the performance metrics of the model on the Test set:
 
 
 ## 📬 Contact
-Created by Ta Nguyen Nghi Phuong] - Feel free to contact me!
+Created by Ta Nguyen Nghi Phuong - Feel free to contact me!
