@@ -41,8 +41,8 @@ Here is how the project is organized:
 │   ├── confusion_matrix.png
 │   └── correlation_heatmap.png
 └── README.md              # This file
+```
 
----
 
 ## Tech Stack 
 * **Language:** Python
