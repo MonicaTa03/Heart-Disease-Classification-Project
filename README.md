@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [📍 Overview](#-overview)
 - [📂 Project Structure](#-project-structure)
 - [⚙️ The Workflow](#-workflow)
@@ -19,7 +19,7 @@
 
 ---
 
-## 📍 Overview
+## Overview
 Heart disease is one of the leading causes of death globally. Early detection is crucial.
 This project utilizes **Machine Learning (Logistic Regression)** to analyze clinical parameters (like Chest Pain, Cholesterol, Blood Pressure) and predict whether a patient is likely to have heart disease.
 
@@ -27,7 +27,7 @@ This project utilizes **Machine Learning (Logistic Regression)** to analyze clin
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Here is how the project is organized:
 
 ```bash
@@ -48,7 +48,6 @@ Here is how the project is organized:
 * **Model:** Logistic Regression
 
 
-
 ## Workflow 
 1.  **Data Loading:** Imported dataset from Kaggle.
 2.  **EDA (Exploratory Data Analysis):** Analyzed distributions and correlations.
@@ -60,7 +59,6 @@ Here is how the project is organized:
 5.  **Evaluation:** Evaluated using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
 
-
 ## Key Results 
 | Metric | Score | Note |
 | :--- | :--- | :--- |
@@ -70,7 +68,6 @@ Here is how the project is organized:
 | **F1-Score** | 0.9032 | Excellent separation between classes |
 | **ROC-AUC** | 0.9418  | |
 > **Insight:** The model achieved a high Recall score, which is crucial in medical diagnosis to minimize False Negatives.
-
 
 
 ## Visualizations
