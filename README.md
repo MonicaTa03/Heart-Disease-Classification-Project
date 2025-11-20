@@ -1,10 +1,13 @@
 # Heart-Disease-Classification-Project
 A Logistic Regression model to predict heart disease using UCI dataset
-# 🫀 Heart Disease Classification Project
+# 🩺 Heart Disease Prediction: Can AI Save Lives?
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+> *"Predicting the presence of heart disease using Logistic Regression with **90% accuracy**."*
 
 ---
 
@@ -18,13 +21,18 @@ A Logistic Regression model to predict heart disease using UCI dataset
 
 ---
 
-## Project Overview 
-This project aims to build a machine learning model to predict whether a patient has heart disease based on their medical attributes (Age, Cholesterol, Blood Pressure, etc.). The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
+## 📍 Overview
+Heart disease is one of the leading causes of death globally. Early detection is crucial.
+This project utilizes **Machine Learning (Logistic Regression)** to analyze clinical parameters (like Chest Pain, Cholesterol, Blood Pressure) and predict whether a patient is likely to have heart disease.
 
+**Objective:** Build a model that minimizes False Negatives (missing a sick patient).
 
+---
 
 ## 📂 Project Structure
 Here is how the project is organized:
+
+```bash
 ├── data
 │   └── heart.csv          # The dataset (UCI Machine Learning Repository)
 ├── notebooks
@@ -33,7 +41,6 @@ Here is how the project is organized:
 │   ├── confusion_matrix.png
 │   └── correlation_heatmap.png
 └── README.md              # This file
-
 
 
 ## Tech Stack 
