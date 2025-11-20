@@ -5,6 +5,7 @@ A Logistic Regression model to predict heart disease using UCI dataset
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ---
 
 ## 📑 Table of Contents
@@ -20,7 +21,7 @@ A Logistic Regression model to predict heart disease using UCI dataset
 ## Project Overview 
 This project aims to build a machine learning model to predict whether a patient has heart disease based on their medical attributes (Age, Cholesterol, Blood Pressure, etc.). The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
 
----
+
 
 ## 📂 Project Structure
 Here is how the project is organized:
@@ -35,14 +36,14 @@ Here is how the project is organized:
 │   └── correlation_heatmap.png
 └── README.md              # This file
 
----
+
 
 ## Tech Stack 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 * **Model:** Logistic Regression
 
----
+
 
 ## Workflow 
 1.  **Data Loading:** Imported dataset from Kaggle.
@@ -54,7 +55,7 @@ Here is how the project is organized:
 4.  **Modeling:** Trained a Logistic Regression model.
 5.  **Evaluation:** Evaluated using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
----
+
 
 ## Key Results 
 | Metric | Score | Note |
@@ -66,7 +67,7 @@ Here is how the project is organized:
 | **ROC-AUC** | 0.9418  | |
 > **Insight:** The model achieved a high Recall score, which is crucial in medical diagnosis to minimize False Negatives.
 
----
+
 
 ## Visuals
 
