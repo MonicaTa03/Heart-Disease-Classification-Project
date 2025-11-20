@@ -42,6 +42,7 @@ Here is how the project is organized:
 │   └── correlation_heatmap.png
 └── README.md              # This file
 
+---
 
 ## Tech Stack 
 * **Language:** Python
