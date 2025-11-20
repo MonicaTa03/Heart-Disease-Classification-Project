@@ -25,8 +25,6 @@ This project aims to build a machine learning model to predict whether a patient
 
 ## 📂 Project Structure
 Here is how the project is organized:
-
-```bash
 ├── data
 │   └── heart.csv          # The dataset (UCI Machine Learning Repository)
 ├── notebooks
