@@ -37,7 +37,13 @@ Here are the performance metrics of the model on the Test set:
 > **Insight:** The model achieved a high Recall score, which is crucial in medical diagnosis to minimize False Negatives.
 
 ## 📷 Visuals
-*(Sau khi bạn chạy code xong, hãy chụp màn hình cái "Confusion Matrix" và "Correlation Heatmap" rồi dán ảnh vào đây)*
+
+<img width="697" height="517" alt="Image" src="https://github.com/user-attachments/assets/2a81aac3-b2e8-4956-8b60-7d797ed0253d" />
+
+<img width="501" height="469" alt="Image" src="https://github.com/user-attachments/assets/02731b3b-513f-4bce-8845-ba476d072775" />
+
+<img width="575" height="453" alt="Image" src="https://github.com/user-attachments/assets/6154cdc2-9ac1-4120-81ac-8a66096a5ebe" /> 
+
 
 ## 📬 Contact
 Created by [Tên của bạn] - Feel free to contact me!
