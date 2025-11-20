@@ -14,10 +14,10 @@ A Logistic Regression model to predict heart disease using UCI dataset
 ## 📑 Table of Contents
 - [📍 Overview](#-overview)
 - [📂 Project Structure](#-project-structure)
-- [⚙️ The Workflow](#-the-workflow)
-- [🏆 Key Results (Highlights)](#-key-results-highlights)
+- [⚙️ The Workflow](#-workflow)
+- [🏆 Key Results (Highlights)](#-key-results)
 - [📊 Visualizations](#-visualizations)
-- [🚀 Future Scope](#-future-scope)
+- [🚀 Contact](#-contact)
 
 ---
 
