@@ -1,6 +1,4 @@
-# Heart-Disease-Classification-Project
-A Logistic Regression model to predict heart disease using UCI dataset
-# 🩺 Heart Disease Prediction: Can AI Save Lives?
+# 🩺 Heart-Disease-Classification-Project: Can AI Save Lives?
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
