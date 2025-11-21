@@ -15,7 +15,7 @@
 - [The Workflow](#-workflow)
 - [Key Results (Highlights)](#-key-results)
 - [Visualizations](#-visualizations)
-- [Contact](#-contact)
+- [Information](#-information)
 
 ---
 
@@ -80,6 +80,7 @@ How my project is organized:
 <img width="575" height="453" alt="Image" src="https://github.com/user-attachments/assets/6154cdc2-9ac1-4120-81ac-8a66096a5ebe" /> 
 
 
-## 📬 Contact
+## 📬 Information
 Created by **Ta Nguyen Nghi Phuong** for MachineLearningI
+***Credit***: Heart Disease UCI dataset by sir **PAVAN KUMAR D** on KAGGLE
 
