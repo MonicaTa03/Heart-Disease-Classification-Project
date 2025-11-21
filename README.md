@@ -20,10 +20,10 @@
 ---
 
 ## Overview
-Heart disease is one of the leading causes of death globally. Early detection is crucial.
-This project utilizes **Machine Learning (Logistic Regression)** to analyze clinical parameters (like Chest Pain, Cholesterol, Blood Pressure) and predict whether a patient is likely to have heart disease.
+Heart disease is one of the leading causes of death globally, that is why early detection is important.
+This project use **Machine Learning (Logistic Regression)** to analyze clinical parameters (such as Chest Pain, Cholesterol, Blood Pressure) and predict whether a patient is likely to have heart disease.
 
-**Objective:** Build a model that minimizes False Negatives (missing a sick patient).
+**Objective:** Build a model that minimizes False Negatives (as missing a sick patient).
 
 ---
 
@@ -81,4 +81,5 @@ Here is how the project is organized:
 
 
 ## 📬 Contact
-Created by **Ta Nguyen Nghi Phuong** - Feel free to contact me!
+Created by **Ta Nguyen Nghi Phuong** for MachineLearningI
+
