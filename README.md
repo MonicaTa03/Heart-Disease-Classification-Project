@@ -32,14 +32,14 @@ Here is how the project is organized:
 
 ```bash
 ├── data
-│   └── heart.csv          # The dataset (UCI Machine Learning Repository)
+│   └── heart.csv          
 ├── notebooks
-│   └── Heart_Disease_Prediction.ipynb   # The main Jupyter Notebook
+│   └── Heart_Disease_Prediction.ipynb   
 ├── images
 │   ├── confusion_matrix.png
 │   └── correlation_heatmap.png
 │   └── ROC curve
-└── README.md              # This file
+└── README.md              
 ```
 
 
