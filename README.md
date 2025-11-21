@@ -28,7 +28,7 @@ This project use **Machine Learning (Logistic Regression)** to analyze clinical 
 ---
 
 ## Project Structure
-Here is how the project is organized:
+How my project is organized:
 
 ```bash
 ├── data
