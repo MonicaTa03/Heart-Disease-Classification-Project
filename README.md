@@ -82,5 +82,6 @@ How my project is organized:
 
 ## 📬 Information
 Created by **Ta Nguyen Nghi Phuong** for MachineLearningI
+
 ***Credit***: Heart Disease UCI dataset by sir **PAVAN KUMAR D** on KAGGLE
 
