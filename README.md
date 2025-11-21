@@ -38,7 +38,7 @@ Here is how the project is organized:
 ├── images
 │   ├── confusion_matrix.png
 │   └── correlation_heatmap.png
-|   └── ROC curve
+│   └── ROC curve
 └── README.md              # This file
 ```
 
