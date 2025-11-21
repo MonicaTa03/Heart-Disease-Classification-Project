@@ -10,12 +10,12 @@
 ---
 
 ## Table of Contents
-- [📍 Overview](#-overview)
-- [📂 Project Structure](#-project-structure)
-- [⚙️ The Workflow](#-workflow)
-- [🏆 Key Results (Highlights)](#-key-results)
-- [📊 Visualizations](#-visualizations)
-- [🚀 Contact](#-contact)
+- [Overview](#-overview)
+- [Project Structure](#-project-structure)
+- [The Workflow](#-workflow)
+- [Key Results (Highlights)](#-key-results)
+- [Visualizations](#-visualizations)
+- [Contact](#-contact)
 
 ---
 
@@ -38,6 +38,7 @@ Here is how the project is organized:
 ├── images
 │   ├── confusion_matrix.png
 │   └── correlation_heatmap.png
+|   └── ROC curve
 └── README.md              # This file
 ```
 
