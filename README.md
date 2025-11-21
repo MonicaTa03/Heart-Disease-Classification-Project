@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-> *"Predicting the presence of heart disease using Logistic Regression with **90% accuracy**."*
+> *Predicting the presence of heart disease using Logistic Regression with **90% accuracy** *
 
 ---
 
